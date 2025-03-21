@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "medvr-logo.png",
       "idiom" : "vision",
       "scale" : "2x"
     }
